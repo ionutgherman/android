@@ -36,7 +36,7 @@
            fetch="https://gitlab.com/"
            sync-c="true"
            sync-j="4"
-           revision="tau" />
+           revision="13.0" />
 
   <superproject name="platform/superproject" remote="aosp" revision="android-13.0.0_r41" />
   <contactinfo bugurl="go/repo-bug" />
